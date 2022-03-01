@@ -1,5 +1,5 @@
 
-<h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a href="https://github.com/kedigo">kedi</a></h2>
+<h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a href="https://github.com/kedigo">Yolo</a></h2>
 <p align="center">
   <a href="https://www.instagram.com/kotone.rss/">Instagram</a> •
   <a href="https://twitter.com/kotone">Twitter</a>
@@ -26,7 +26,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Shwetang550&theme=dark&show_icons=true" alt="shwetangStats" />  
   <br />
   <br />
-  <img src="https://komarev.com/ghpvc/?username=kedigo&label=Ziyaretçi%20Sayısı&color=351c75" alt="kedigo" />
+  <img src="https://komarev.com/ghpvc/?username=JSYolo&label=Ziyaretçi%20Sayısı&color=351c75" alt="Yolo" />
   <br />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shwetang550&layout=compact&theme=dark" alt="top-langs" />
